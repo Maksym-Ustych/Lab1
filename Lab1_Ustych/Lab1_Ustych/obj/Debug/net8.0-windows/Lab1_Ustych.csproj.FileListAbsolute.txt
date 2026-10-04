@@ -1,0 +1,16 @@
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\bin\Debug\net8.0-windows\Lab1_Ustych.exe
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\bin\Debug\net8.0-windows\Lab1_Ustych.deps.json
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\bin\Debug\net8.0-windows\Lab1_Ustych.runtimeconfig.json
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\bin\Debug\net8.0-windows\Lab1_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\bin\Debug\net8.0-windows\Lab1_Ustych.pdb
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.Form1.resources
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.csproj.GenerateResource.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.AssemblyInfoInputs.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.AssemblyInfo.cs
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.csproj.CoreCompileInputs.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\refint\Lab1_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.pdb
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\Lab1_Ustych.genruntimeconfig.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\Lab1_Ustych\Lab1_Ustych\obj\Debug\net8.0-windows\ref\Lab1_Ustych.dll
